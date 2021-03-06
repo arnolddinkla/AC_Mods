@@ -1,6 +1,6 @@
-# Archcraft-mods
-Archcraft styling  mods
- - basically a rehash of the Archcraft's beach style but lightened up a bit. 
+# archcraft-mods
+archcraft styling  mods
+ - basically a rehash of the archcraft's beach style but lightened up a lot. 
  
    - Openbox
    - Rofi
