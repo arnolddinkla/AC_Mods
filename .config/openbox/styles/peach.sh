@@ -85,8 +85,8 @@ color6 = #558888
 color14 = #558888
 
 #white
-color7 = #eaeaed
-color15 = #f6f7f8
+color7 = #93a1a1
+color15 = #93a1a1
 _EOF_
 
 # alt config
