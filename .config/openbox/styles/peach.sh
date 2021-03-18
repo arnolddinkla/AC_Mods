@@ -38,7 +38,7 @@ cat > $rofi_path/dialogs/colors.rasi << _EOF_
 * {
     BG:    #e7e8ebff;
     FG:    #93a1a1ff;
-    BDR:   #73a1a1ff;
+    BDR:   #93a1a1ff;
 }
 _EOF_
 
