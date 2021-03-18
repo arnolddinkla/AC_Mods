@@ -1,6 +1,6 @@
 configuration {
   show-icons:         true;
-  icon-theme:         "Hybrid";
+  icon-theme:         "Arc";
   terminal:			  "termite";
   cycle:              false;
   hide-scrollbar:     true;
