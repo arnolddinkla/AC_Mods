@@ -1,6 +1,6 @@
 #!/bin/bash
 
-STYLE="peach"
+STYLE="Archcraft_Arc"
 
 rofi_command="rofi -theme $STYLE/mpd.rasi"
 

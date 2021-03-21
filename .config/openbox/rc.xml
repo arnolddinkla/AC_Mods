@@ -19,7 +19,7 @@
     <primaryMonitor>Mouse</primaryMonitor>
   </placement>
   <theme>
-    <name>peach</name>
+    <name>Arc-Lighter</name>
     <titleLayout>CLM</titleLayout>
     <keepBorder>no</keepBorder>
     <animateIconify>yes</animateIconify>

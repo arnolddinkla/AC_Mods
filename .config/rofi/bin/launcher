@@ -9,7 +9,7 @@
 # Ribbon_Left_Round | Ribbon_Right | Ribbon_Right_Round | Ribbon_Top | Ribbon_Top_Round | Row_Bottom | Row_Center | Row_Dock | Row_Dropdown
 
 ## Default
-DIR="peach"
+DIR="Archcraft_Arc"
 STYLE="launcher"
 
 rofi -no-lazy-grab -show drun -theme "$DIR"/"$STYLE".rasi

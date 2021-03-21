@@ -8,7 +8,7 @@
 # single     single_circle     single_full     single_full_circle     single_rounded     single_text
 
 ## Default
-DIR="peach"
+DIR="Archcraft_Arc"
 STYLE="powermenu"
 
 rofi_command="rofi -theme $DIR/$STYLE.rasi"

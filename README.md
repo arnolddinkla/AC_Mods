@@ -15,3 +15,6 @@ To the Archcraft guy - great work  https://github.com/adi1090x  https://github.c
 25_01_21 Remember to install nerd-fonts-isoveka and run fix modules
 
 06_03_21 Update preserving hiddens and executables 
+
+21_03_21 - add Arc_ligther window theme and Arc icon theme (colours modded to #93a1a1)
+				- a few other minor colour tweaks (#93a1a1)
