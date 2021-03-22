@@ -1,8 +1,9 @@
 # archcraft-mods
-Remember to 	- install nerd-fonts-isoveka and run fix modules
+Remember to:
+		- install nerd-fonts-isoveka and run fix modules
 		- enable ntpdate.service	
 
-archcraft styling  mods
+archcraft styling  mods:
  - basically a rehash of the archcraft's beach style but lightened up a lot. 
  
    - Openbox
