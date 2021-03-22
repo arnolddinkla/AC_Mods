@@ -1,9 +1,9 @@
 # archcraft-mods
-Remember to:
-		- install nerd-fonts-isoveka and run fix modules
-		- enable ntpdate.service	
+REMENBER TO
+- install nerd-fonts-isoveka and run fix modules
+- enable ntpdate.service	
 
-archcraft styling  mods:
+archcraft styling  mods
  - basically a rehash of the archcraft's beach style but lightened up a lot. 
  
    - Openbox
@@ -20,5 +20,5 @@ To the Archcraft guy - great work  https://github.com/adi1090x  https://github.c
 
 06_03_21 Update preserving hiddens and executables 
 
-21_03_21 - add Arc_ligther window theme and Arc icon theme (colours modded to #93a1a1)
+21_03_21 - add Arc_lighter window theme and Arc icon theme (colours modded to #93a1a1)
 				- a few other minor colour tweaks (#93a1a1)
