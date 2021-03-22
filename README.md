@@ -1,6 +1,7 @@
 # archcraft-mods
 REMEMBER TO
-- install nerd-fonts-isoveka and run fix modules
+- install nerd-fonts-isoveka
+- run fix modules
 - enable ntpdate.service	
 
 archcraft styling  mods
