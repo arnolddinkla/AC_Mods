@@ -2,7 +2,7 @@
 REMEMBER TO
 - install nerd-fonts-isoveka
 - run fix modules
-- enable ntpdate.service	
+- enable ntpdate.service
 
 archcraft styling  mods
  - basically a rehash of the archcraft's beach style but lightened up a lot. 
