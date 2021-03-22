@@ -1,5 +1,5 @@
 # archcraft-mods
-REMENBER TO
+REMEMBER TO
 - install nerd-fonts-isoveka and run fix modules
 - enable ntpdate.service	
 
