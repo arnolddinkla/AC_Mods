@@ -3,7 +3,6 @@ REMEMBER TO
 - install nerd-fonts-isoveka
 - run fix modules
 - fix time	- timedatectl set-ntp true	
-		
 		- hwclock --systohc
 
 archcraft styling  mods
