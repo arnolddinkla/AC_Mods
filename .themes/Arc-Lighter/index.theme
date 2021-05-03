@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Arc-Lighter
 MetacityTheme=Arc-Lighter
-IconTheme=Adwaita
-CursorTheme=DMZ-Black
+IconTheme=Arc
+CursorTheme=Arc
 ButtonLayout=menu:minimize,maximize,close
