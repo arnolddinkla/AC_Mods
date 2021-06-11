@@ -20,6 +20,7 @@ state_line_color = "black"
 
 [playlist]
 playlist_display_mode = "classic"
+autocenter_mode = "yes"
 song_list_format = "{{%a - %t}|{%f}}{$R%l}"
 now_playing_prefix = "$b$7"
 now_playing_suffix = "$/b$9"
