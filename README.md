@@ -28,3 +28,5 @@ To the Archcraft guy - great work  https://github.com/adi1090x  https://github.c
 				- a few other minor colour tweaks (#93a1a1)
 				
 01_06_21 - update for new iso/github sturucture -add gtk3 setings.ini
+
+23_06_21 - there's a tweak in here to make workspaces more noticeable (swap fg/bg for current workspace and used workspaces are now coloured red)
