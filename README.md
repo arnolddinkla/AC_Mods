@@ -2,6 +2,8 @@
 
 ![Screenshot](scrot-2021-06-12-49-1920x1080.png)
 
+NOTE: Archcraft seems to be bloating out a bit. These mods are earlier versions of iso and some modifications may be required for everything to work on later isos 
+
 REMEMBER TO
 - install nerd-fonts-isoveka
 - run fix modules
