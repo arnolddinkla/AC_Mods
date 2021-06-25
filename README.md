@@ -26,3 +26,4 @@ To the Archcraft guy - great work  https://github.com/adi1090x  https://github.c
 
 21_03_21 - add Arc_lighter window theme and Arc icon theme (colours modded to #93a1a1)
 				- a few other minor colour tweaks (#93a1a1)
+01_06_21 - update for new iso/github sturucture -add gtk3 setings.ini
