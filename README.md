@@ -1,4 +1,7 @@
 # archcraft-mods
+
+![Screenshot](scrot-2021-06-12-49-1920x1080.png)
+
 REMEMBER TO
 - install nerd-fonts-isoveka
 - run fix modules
